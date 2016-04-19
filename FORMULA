@@ -1,0 +1,8 @@
+name: docker
+os: Debian
+os_family: Debian
+minimum_version: 2015.8.4
+version: 201604
+release: 1
+summary: Formula to set up and configure Docker
+description: Formula to set up and configure Docker
